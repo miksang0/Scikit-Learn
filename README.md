@@ -1,2 +1,2 @@
 # Scikit-Learn
-This repo will be dedicated in scikit learn. 
+This repo will be dedicated tp scikit learn. 
