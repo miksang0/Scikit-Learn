@@ -1,8 +1,8 @@
 # Scikit-Learn
-This repo will be dedicated tp scikit learn. 
+This repository will be dedicated to scikit-learn. 
 
 **What was covered?**
- 1. Datasets
+ 1. Datasets Done
  2. Splitting Data
  3. Preprocessing
  4. Feature Encoding
