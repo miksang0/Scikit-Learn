@@ -2,7 +2,7 @@
 This repository will be dedicated to scikit-learn. 
 
 **What was covered?**
- 1. Datasets Done
+ 1. Datasets 
  2. Splitting Data
  3. Preprocessing
  4. Feature Encoding
@@ -14,3 +14,5 @@ This repository will be dedicated to scikit-learn.
  10. Cross-Validation
  11. Hyperparameter Tuning
  12. Pipelines
+
+Project is incomplete as of 10/24/25
