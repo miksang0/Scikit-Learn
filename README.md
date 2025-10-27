@@ -1,7 +1,7 @@
 # Scikit-Learn
 This repository will be dedicated to scikit-learn. 
 
-**What was covered?**
+**Below are the topics covered in this repository.**
  1. Datasets 
  2. Splitting Data
  3. Preprocessing
