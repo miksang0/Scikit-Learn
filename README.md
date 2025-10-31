@@ -1,5 +1,5 @@
 # Scikit-Learn
-This repository will be dedicated to scikit-learn. 
+This repository will be dedicated to scikit-learn. This will be updated over time. 
 
 **Below are the topics covered in this repository.**
  1. Datasets 
