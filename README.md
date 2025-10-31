@@ -15,4 +15,4 @@ This repository will be dedicated to scikit-learn.
  11. Hyperparameter Tuning
  12. Pipelines
 
-Project is incomplete as of 10/28/25
+Project is incomplete as of 10/30/25
