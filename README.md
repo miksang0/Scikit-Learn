@@ -1,5 +1,5 @@
 # Scikit-Learn
-This repository will be dedicated to scikit-learn. This will be updated over time. 
+This repository will be dedicated to scikit-learn. 
 
 **Below are the topics covered in this repository.**
  1. Datasets 
@@ -15,4 +15,5 @@ This repository will be dedicated to scikit-learn. This will be updated over tim
  11. Hyperparameter Tuning
  12. Pipelines
 
-Project is incomplete as of 11/07/25
+Project is completed as of 11/09/25
+More information will be added in time for the convenience of reading the whole thing.
