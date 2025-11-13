@@ -16,4 +16,4 @@ This repository will be dedicated to scikit-learn.
  12. Pipelines
 
 Project is completed as of 11/09/25
-More information will be added in time for the convenience of reading the whole thing.
+More information and visualizations will be added over time to make it easier to read the entire repository.
