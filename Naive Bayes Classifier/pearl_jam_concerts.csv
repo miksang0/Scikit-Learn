@@ -1,0 +1,42 @@
+City_Population,Continent,Venue_Capacity,Day_of_Week,Multiple_Concert,Sold_Out
+8500000,North America,20000,Friday,1,1
+8500000,North America,20000,Saturday,1,1
+4000000,North America,18000,Wednesday,0,0
+2700000,Europe,22000,Saturday,1,1
+2700000,Europe,22000,Sunday,1,1
+1100000,Europe,15000,Friday,0,1
+900000,Europe,12000,Monday,0,0
+14000000,Asia,30000,Saturday,1,1
+14000000,Asia,30000,Sunday,1,1
+7000000,Asia,25000,Friday,0,1
+7000000,Asia,25000,Tuesday,0,0
+5000000,South America,28000,Saturday,1,1
+5000000,South America,28000,Sunday,1,1
+3000000,South America,20000,Thursday,0,1
+3000000,South America,20000,Monday,0,0
+600000,North America,10000,Wednesday,0,0
+600000,North America,10000,Friday,0,1
+8000000,Europe,24000,Saturday,1,1
+8000000,Europe,24000,Sunday,1,1
+2000000,Europe,18000,Thursday,0,1
+2000000,Europe,18000,Tuesday,0,0
+12000000,Asia,35000,Saturday,1,1
+12000000,Asia,35000,Sunday,1,1
+4500000,Asia,22000,Friday,0,1
+4500000,Asia,22000,Wednesday,0,0
+1000000,Australia,16000,Friday,0,1
+1000000,Australia,16000,Monday,0,0
+5300000,Australia,25000,Saturday,1,1
+5300000,Australia,25000,Sunday,1,1
+2600000,Africa,18000,Saturday,0,1
+2600000,Africa,18000,Tuesday,0,0
+900000,Africa,12000,Friday,0,0
+3900000,North America,21000,Saturday,1,1
+3900000,North America,21000,Sunday,1,1
+3900000,North America,21000,Thursday,0,1
+1800000,Europe,17000,Friday,0,1
+1800000,Europe,17000,Monday,0,0
+7500000,Asia,26000,Saturday,1,1
+7500000,Asia,26000,Sunday,1,1
+2200000,South America,19000,Friday,0,1
+2200000,South America,19000,Tuesday,0,0
